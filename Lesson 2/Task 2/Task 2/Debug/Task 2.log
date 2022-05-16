@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\Documents\GitHub\NG_2022_-Bogdan-Nakonechniy-\Lesson 2\Task 2\Task 2\main.cpp(15,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Documents\GitHub\NG_2022_-Bogdan-Nakonechniy-\Lesson 2\Task 2\Task 2\main.cpp(16,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Task 2.vcxproj -> C:\Users\Admin\Documents\GitHub\NG_2022_-Bogdan-Nakonechniy-\Lesson 2\Task 2\Debug\Task 2.exe
