@@ -16,21 +16,21 @@ int main()
     D = pow(b, 2) - 4 * a * c;
     if (D < 0)
     {
-        cout << "\nNo roots found." << endl;
+        cout << endl << "No roots found." << endl;
     }
     if (D == 0)
     {
         result = -b / (2 * a);
-        cout << "\nD = 0" << endl
-             << "Root = " << result << endl;
+        cout << endl << "D = 0" << endl
+                     << "Root = " << result << endl;
     }
     if(D > 0)
     {
-        cout << "\nD > 0" << endl;
+        cout << endl << "D > 0" << endl;
         result = -b - sqrt(D) / (2 * a);
-        cout << "Root №1:" << result << endl;
+        cout << "Root 1:" << result << endl;
         result = -b + sqrt(D) / (2 * a);
-        cout << "Root №2:" << result << endl;
+        cout << "Root 2:" << result << endl;
     }
     
 }
