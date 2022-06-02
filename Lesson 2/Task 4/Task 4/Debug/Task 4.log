@@ -1,5 +1,0 @@
-﻿  Task 4.cpp
-C:\Users\Admin\Documents\GitHub\NG_2022_-Bogdan-Nakonechniy-\Lesson 2\Task 4\Task 4\Task 4.cpp(13,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Admin\Documents\GitHub\NG_2022_-Bogdan-Nakonechniy-\Lesson 2\Task 4\Task 4\Task 4.cpp(16,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Admin\Documents\GitHub\NG_2022_-Bogdan-Nakonechniy-\Lesson 2\Task 4\Task 4\Task 4.cpp(29,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-  Task 4.vcxproj -> C:\Users\Admin\Documents\GitHub\NG_2022_-Bogdan-Nakonechniy-\Lesson 2\Task 4\Debug\Task 4.exe
