@@ -37,7 +37,6 @@ int main()
             }
             if(x <= worldSizeX / 10 && y > 0 && y << worldSizeY)
                 map[y][x] = '~';
-            //map[boatPosY][boatPosX + 1] = 'B';
             map[0][x] = '=';
             map[worldSizeY - 1][x] = '=';
             pMap[y][x] = '*';
