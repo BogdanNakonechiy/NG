@@ -5,12 +5,10 @@ using namespace std;
 int main()
 {
     int SizeArray, SearchNumber;
-    
+    int Array[100];
+
     cout << "Enter size of array: ";
     cin >> SizeArray;
-
-    int *Array = new int[SizeArray];
-    
     
     for (int i = 0; i < SizeArray; i++)
     {
