@@ -44,3 +44,5 @@
 *\vs
 *.sln
 *\64
+*\debug
+*\Debug
