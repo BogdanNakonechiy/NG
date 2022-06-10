@@ -14,9 +14,20 @@ int main()
     
     cout << endl;
 
-    if (strlen(firstStr) > strlen(secondStr))
-        cout << "First ";
-    else
-        cout << "Second ";
+    for (int i = 0; i < sizeof(firstStr) / sizeof(firstStr[0]); i++)
+    {
+        if (firstStr[i] == NULL)
+        {
+            cout << "Second ";
+            break;
+        }
+        
+        if (secondStr[i] == NULL)
+        {
+            cout << "First ";
+            break;
+        }
+    }
+    
     cout << "string is bigger!" << endl;
 }
