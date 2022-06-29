@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    rand(time(0));
+    srand(time(0));
     
     const int worldSizeY = 20;
     const int worldSizeX = 70;
